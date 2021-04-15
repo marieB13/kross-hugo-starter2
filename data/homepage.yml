@@ -27,7 +27,7 @@ skill:
     color: "#00000"
   - title: Digital
     progress: 90%
-    color: "#ffbcaa"
+    color: "#ad818c"
 experience:
   enable: true
   title: Experience
