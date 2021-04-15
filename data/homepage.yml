@@ -16,17 +16,17 @@ skill:
   enable: true
   title: Compétences
   item:
-  - title: ''
-    progress: ''
-    color: ''
+  - title: Print
+    progress: 85%
+    color: "#CC9990"
   - title: Web Design
     progress: 70%
     color: "#fdb157"
   - title: Logo Design
-    progress: 90%
+    progress: 95%
     color: "#9473e6"
   - title: Digital
-    progress: 80%
+    progress: 90%
     color: "#ffbcaa"
 experience:
   enable: true
