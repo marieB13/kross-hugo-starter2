@@ -14,7 +14,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Compétences
   item:
   - title: Web Design
     progress: 90%
