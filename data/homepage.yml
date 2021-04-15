@@ -21,7 +21,7 @@ skill:
     color: "#CC9990"
   - title: Web Design
     progress: 70%
-    color: "#ffffff"
+    color: "#EBEBEB"
   - title: Logo Design
     progress: 95%
     color: "#000000"
