@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/portfolio
   label: Portfolio
-  create: none
+  create: all
   match: "*"
 - type: directory
   path: content/blog
