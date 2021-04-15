@@ -24,7 +24,7 @@ skill:
     color: "#ffffff"
   - title: Logo Design
     progress: 95%
-    color: "#00000"
+    color: "#000000"
   - title: Digital
     progress: 90%
     color: "#ad818c"
